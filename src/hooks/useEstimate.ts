@@ -6,7 +6,7 @@ export const estimatePrice = async ({
   features: [number, number, number, number, number];
 }) => {
   try {
-    const response = await fetch("http://192.168.3.43:5001/predict", {
+    const response = await fetch("https://web-production-a5362.up.railway.app/predict", {
 
       method: "POST",
       headers: {
