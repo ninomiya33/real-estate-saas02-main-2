@@ -1,0 +1,24 @@
+{
+    "appName": "不動産営業支援SaaS",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "languageToggle": "日本語 / English",
+    "heroTitle": "トップ",
+    "estimateTitle": "査定",
+    "dashboard": "ダッシュボード",
+    "leadManagement": "顧客管理ページ",
+    "leads": "見込み顧客一覧",
+    "searchLeads": "名前・住所で検索",
+    "filterStatus": "ステータスで絞り込み",
+    "status": "ステータス",
+    "noLeads": "現在、表示できる顧客がいません。",
+    "statusOptions": {
+      "all": "すべて",
+      "new": "新規",
+      "inProgress": "対応中",
+      "completed": "完了"
+    },
+    "area": "土地面積",
+    "price": "査定価格"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "appName": "Real Estate SaaS",
+    "login": "Login",
+    "logout": "Logout",
+    "languageToggle": "English / 日本語",
+    "heroTitle": "Home",
+    "estimateTitle": "Estimate",
+    "dashboard": "Dashboard",
+    "leadManagement": "Lead Management",
+    "leads": "Leads",
+    "searchLeads": "Search by name or address",
+    "filterStatus": "Filter by status",
+    "status": "Status",
+    "noLeads": "No leads available.",
+    "statusOptions": {
+      "all": "All",
+      "new": "New",
+      "inProgress": "In Progress",
+      "completed": "Completed"
+    },
+    "area": "Area",
+    "price": "Estimated Price"
+  }
+  
